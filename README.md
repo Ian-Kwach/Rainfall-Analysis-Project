@@ -11,9 +11,7 @@ To run the R script, you need to have R and RStudio installed on your machine. Y
 Setup
 Clone this repository to your local machine:
 sh
-Copy code
-git clone https://github.com/yourusername/Rainfall-Analysis-Project.git
-Navigate to the project directory:
+
 sh
 Copy code
 cd Rainfall-Analysis-Project
